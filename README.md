@@ -77,5 +77,13 @@ Historical stock price data is downloaded using the `yfinance` library, which pr
 * Insights into the factors influencing stock prices.
 * Visualizations and analysis that can be used for further research and investment decisions.
 
+
+
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/Arunthavaraj/Stock-Price-Analysis/blob/main/streamlit-Stock_Market_Analysis-2025-03-15-15-03-98.gif" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
