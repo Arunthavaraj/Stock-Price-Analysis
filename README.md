@@ -79,10 +79,3 @@ Historical stock price data is downloaded using the `yfinance` library, which pr
 
 ---
 
-### Getting Started
-
-1.  Clone the repository: `git clone [repository URL]`
-2.  Navigate to the repository directory: `cd [repository directory]`
-3.  Install the required libraries: `pip install -r requirements.txt` (if you create a requirements.txt file) or install libraries individually.
-4.  Open and run the Jupyter notebook: `jupyter notebook Stock_Market_Analysis.ipynb`
-
